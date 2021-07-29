@@ -104,9 +104,4 @@ class Server {
     }
 }
 
-if(!module.parent) {
-    const args = minimist(process.argv.slice(2));
-    new Server(args.port);
-}
-
 export default Server;

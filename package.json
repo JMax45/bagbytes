@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server",
     "build-client": "./node_modules/.bin/esbuild src/client/index.ts --bundle --outfile=dist/client.js --platform=node",
-    "build-server": "./node_modules/.bin/esbuild src/server/index.ts --bundle --outfile=dist/server.js --platform=node",
+    "build-server": "./node_modules/.bin/esbuild src/server/bin.ts --bundle --outfile=dist/server.js --platform=node",
     "build-distributor": "./node_modules/.bin/esbuild src/distributor/index.ts --bundle --outfile=dist/distributor.js --platform=node",
     "build": "tsc"
   },
