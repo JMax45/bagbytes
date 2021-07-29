@@ -51,11 +51,9 @@ It has a server mode that allows to have multiple distributors and clients but i
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [websockets/ws](https://github.com/websockets/ws)
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
