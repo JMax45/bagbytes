@@ -56,8 +56,7 @@ It has a server mode that allows to have multiple distributors and clients but i
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Installation
 
@@ -129,6 +128,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [Technology vector created by upklyak - www.freepik.com](https://www.freepik.com/vectors/technology)
 * [3d Vectors by Vecteezy](https://www.vecteezy.com/free-vector/3d)
 * [Demonstration pictures created by Zeverotti](https://github.com/Zeverotti)
+* [README template by othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -140,4 +140,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-url]: https://github.com/JMax45/bagbytes/blob/master/LICENSE.txt
 [software-demonstration1]: https://i.imgur.com/OYPJnz4.jpeg
 [software-demonstration2]: https://i.imgur.com/0Eq3iRd.jpeg
-
