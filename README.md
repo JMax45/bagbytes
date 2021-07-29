@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 BagBytes is an **experimental** file exchange program that allows you to distribute files from your computer to other users.
-It has a server mode that allow to have multiple distributors and clients but it also has a direct mode which allows to distribute files without a server.
+It has a server mode that allows to have multiple distributors and clients but it also has a direct mode which allows to distribute files without a server.
 
 [![Software demonstration 1][software-demonstration1]](#)
 [![Software demonstration 2][software-demonstration2]](#)
